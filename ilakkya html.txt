@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+  <head>
+  </head>
+  <body>
+<h1>indira</h1>
+<h2>murugesan</h2>
+<h3>eniya</h3>
+<h4>shreha</h4>
+<h5>arul</h5>
+<h6>manikandan</h6>
+<p>MY <span style=color:red">FAMILY is my strength</span> and backbone</p>
+     <div style="color:red">
+	    <h1>ilakkya</h1><br1>
+	 </div>
+	 <b>tirunelveli</b>
+	 <i>amma</i>
+	 <strong>balakrishna</strong>
+	 <u>puli</u>
+	 <small>singam</small>
+	 <ins>ilakkya</ins>
+	 <del>aishu</del>
+	 H<SUB>2</SUB>O
+	 X<SUP>2</SUP>
+	 <MARk>tirunelveli</mark>
+	 <ol type="n">
+	   <li>ilakkya</li>
+	   <li>soundiralingapuram</li>
+	 </ol>
+	 <ul type="square">
+	   <li>ilakkya</li>
+	   <li>kaliyugam</li>
+     </ul>
+	 <dt>what is your name</dt>
+	 <dd>ilakkya</dd>
+	 <table border=1>
+	    <th>s.no</th>
+	    <th>place</th>
+		<th colspan=2>company salary</th>
+     </th>
+	<tr>
+	    <TD>1</td>
+		<td>banglore</td>
+		<td>swigy</td>
+		<td>10000</td>
+	</tr>
+	<tr>
+	    <td>2</td>
+		<td>chennai</td>
+		<td>inflex</td>
+		<td rowspan=2>20000</td>
+	</tr>
+	<tr>
+	    <td>3</td>
+		<td>coimbatore</td>
+		<td>recssar</td>
+	
+	</tr>
+	<tr>
+	    <td>4</td>
+		<td>london</td>
+		<td>amazon</td>
+		<td>30000</td> 
+		
+	</tr>
+	</table>
+	<h1>&copyright</h1>
+	<h1><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="m480-120-58-52q-101-91-167-157T150-447.5Q111-500 95.5-544T80-634q0-94 63-157t157-63q52 0 99 22t81 62q34-40 81-62t99-22q94 0 157 63t63 157q0 46-15.5 90T810-447.5Q771-395 705-329T538-172l-58 52Zm0-108q96-86 158-147.5t98-107q36-45.5 50-81t14-70.5q0-60-40-100t-100-40q-47 0-87 26.5T518-680h-76q-15-41-55-67.5T300-774q-60 0-100 40t-40 100q0 35 14 70.5t50 81q36 45.5 98 107T480-228Zm0-273Z"/></svg></h1>
+	<iframe src="https://en.wikipedia.org/wiki/Special:Search?search=&go=Go " height=500 width=500></iframe>
+    <a href=" "></a>
+	<a href="#"></a>
+	<a href="https://en.wikipedia.org/wiki/Special:Search?search=&go=Go"target=_blank">login</a>
+	<a href="index1.html"target="_blank">document</a>
+	<a href="#data">move</a>
+	<img src="assets/images/555.jpg"/>
+	<form action=" ">
+	<center><b>college admission form</b></center>
+	<br>
+	<b>name</b>
+    <br>
+	<label for="fname">first name:</label>
+	<input type="text"placeholder=" "="user"/>
+	<br>
+	<label for="fname">second name:</label>
+	<input type="text"placeholder=" "="user"/>
+	</br>
+    <br>
+    date of birth:<input type="date"/>
+    <br>
+    <label for="fname">gender:</label>
+	<br>
+	<div>
+	<input type="radio"name=" " id="male">
+	<label for="male">male</label>
+	</div>
+	<div>
+	<input type="radio"name=" " id="female">
+	<label for="female">female</label>
+	</div>
+	<div>
+	<input type="radio"name=" ">
+	<label for="transgender">transgender</label>
+	</div>
+	<label>select your district:</label>
+	<select>
+	<option value=1>tirunelveli</option>
+	<option value=2>sivagangai</option>
+	<option value=3>madurai</option>
+	<option value=4>kanniyakumari</option>
+	<option value=5>nagercoil</option>
+	<option value=6>dindugal</option>
+	<option value=7>chennai</option>
+	<option value=8>ariyallur</option>
+	<option value=9>viruthunagar</option>
+	<option value=10>thirupatur</option>
+	<option value-11>thiruchirapalli</option>
+	<option value-12>puthukottai</option>
+	<option value-13>ramnathapuram</option>
+	<option value-14>salem</option>
+	<option value-15>theni</option>
+	<option value-16>thanjavoor</option>
+	<option value-16>thiruvallur</option>
+	<option value-17>kancheepuram</option>
+	<option value-18>namakkal</option>
+	<option value-19>mayiladudurai</option>
+	</select>
+	<br>
+	<label>email address:</label>
+	<input type="text"placeholder=" "="user"/>
+	<br>
+	<label>please select the courses:</label>
+	<br>
+	<input type="checkbox"name=" "/>ece
+	<br>
+	<input type="checkbox"name=" "/>aids
+	<br>
+	<input type="checkbox"name=" "/>cse
+	<br>
+	<input type="checkbox"name=" "/>eee
+	<br>
+	<input type="checkbox"name=" "/>mech
+	<br>
+	<label>attach your photo</label><br>
+	<textarea rows=5 cols=9></textAREA>
+	</form>
+	</center>
+	</body>
+</html>
+	
+	
+	
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	   

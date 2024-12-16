@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <TITLE>RECSSAR PRIVATE LIMITED</TITLE>
+  <iframe src="https://reccsar.com/ "height=500 width=700></iframe>
+  <div style="color:red">
+    <h1>recssar life peaceful life</h1>
+    <h1>play by the rules but be ferocious</h1> 
+  </div>
+  <table border=1>
+  <dt>what is the purpose of recssar?</dt>
+  <dd>lets see our details and purpose<dd>
+  <table border=1>
+  <h3>start where you are</h3>
+  <h3>use what you have</h3>
+  <h3>do what you can</h3>
+    <th>s.no</th>
+	<th>company name</th>
+	<th>places</th>
+	<th>department</th>
+	<th>salary</th>
+    <th>address</th>
+	<tr>
+	   <td>1</td>
+	   <td rowspan=3>recssar</td>
+	   <td>madurai</td>
+	   <td>it field</td>
+	   <td>30000</td>
+	   <td>no.803,thammukam</td>
+	</tr>
+	<tr>
+	   <td>2</td> 
+	   <td>tirunelveli</td>
+	   <td>ece field</td>
+	   <td>50000</td>
+	   <td>no.850,soundiralingapuram</td>
+	</tr>
+	<tr>
+	   <td>3</td>
+	   <td>chennai</td>
+	   <td>mech field</td>
+	   <td>45000</td>
+	   <td>no.670,kannagi street</td>
+	</tr>
+	<ol type="a">
+	   <li>courses avalaible in madurai</li>
+	</ol>
+	<ul type="square">
+	   <li>pascal</li>
+	   <li>html</li>
+	</ul>
+	<ol type="a">
+	   <li>courses available in tirunelveli</li>
+	</ol>
+	<ul type="disc">
+       <li>java</li>
+	   <li>fullstack</li>
+	</ul>
+	<ol type="a">
+	   <li>courses available in chennai</li>
+	</ol>
+	<ul type="circle">
+	    <li>web development</li>
+		<li>desinging</li>
+	</ul>
+	
+	
+	
+ 
+ 
